@@ -1,2 +1,2 @@
-# DrfAdmin
+# Admin信息管理平台
 信息管理平台
